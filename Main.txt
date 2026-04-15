@@ -1,2 +1,3 @@
 print("Dog barks")
 print("Cat smailes")
+print("Rabbit runs fast")
